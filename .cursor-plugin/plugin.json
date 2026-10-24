@@ -1,0 +1,20 @@
+{
+  "name": "soclo-cursor",
+  "version": "1.0.0",
+  "description": "Free marketing drafts for Cursor from files you supply. Plan a content week, write a campaign brief and ad copy, draft hooks, turn supplied reviews or a photo into post drafts, ground ad drafts in supplied research, and analyse a performance export. Soclo charges nothing for this plugin. It does not connect to an account or a hosted service.",
+  "author": {
+    "name": "Soclo",
+    "email": "simeon@socialiser.app"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/socialiserapp-design/soclo-cursor",
+  "repository": "https://github.com/socialiserapp-design/soclo-cursor",
+  "keywords": [
+    "marketing",
+    "social-media",
+    "content-calendar",
+    "advertising",
+    "local"
+  ],
+  "logo": "assets/soclo-icon.png"
+}
